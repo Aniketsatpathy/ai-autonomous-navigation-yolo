@@ -98,15 +98,22 @@ python run.py
 
 ## 🖼️ Screenshots
 
-![Output](assets/output1.png)
+### Navigation Output - Detection & Lane Understanding
+![Navigation Output 1](https://raw.githubusercontent.com/Aniketsatpathy/ai-autonomous-navigation-yolo/main/images/screenshots/Navigation_output1.png)
+
+### Real-time Path Planning & Obstacle Avoidance
+![Navigation Output 2](https://raw.githubusercontent.com/Aniketsatpathy/ai-autonomous-navigation-yolo/main/images/screenshots/Navigation_output2.png)
+
+### System Terminal Output & Logs
+![Terminal Log Output](https://raw.githubusercontent.com/Aniketsatpathy/ai-autonomous-navigation-yolo/main/images/screenshots/Terminal_log_output.png)
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo Video
 
-![Demo](assets/demo.mp4)
+Experience the autonomous navigation system in action:
 
----
+https://github.com/Aniketsatpathy/ai-autonomous-navigation-yolo/raw/main/outputs/result_videos/demo_output.avi
 
 ## 📚 Learning Outcomes
 
