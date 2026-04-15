@@ -1,0 +1,1 @@
+"""Core package for the AI-Based Autonomous Navigation System."""

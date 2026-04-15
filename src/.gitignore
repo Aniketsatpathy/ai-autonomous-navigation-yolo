@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+outputs/result_videos/
+outputs/logs/
+outputs/annotated_frames/
+outputs/metrics/
+.ipynb_checkpoints/
+.DS_Store
